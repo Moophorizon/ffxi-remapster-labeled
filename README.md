@@ -1,6 +1,19 @@
 # ffxi-remapster-labeled
 using information from bg-wiki.com/ffxi to label HD remapster maps from Remapster.com
 
+<table>
+<tr>
+<td>
+<img src="preview1.png" width="600"/>
+</td>
+</tr><tr>
+<td>
+<img src="preview2.png" width="600"/>
+</td>
+</tr>
+</table>
+
+
 Completed maps:
 
 <table>
