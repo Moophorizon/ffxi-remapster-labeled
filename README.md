@@ -87,6 +87,11 @@ Completed maps:
     Valkrum Dunes
   </td>
   </tr>
+  <tr>
+  <td>
+    East Sarutabaruta
+  </td>
+  </tr>
 
 
 </table>
