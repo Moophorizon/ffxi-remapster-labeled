@@ -113,6 +113,11 @@ Completed maps: as of 1/11/2023
     Inner Horutoto Ruins
   </td>
   </tr>
+  <tr>
+  <td>
+    Garlaige Citadel
+  </td>
+  </tr>
   
 
 
