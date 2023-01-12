@@ -1,6 +1,12 @@
 # ffxi-remapster-labeled
 using information from bg-wiki.com/ffxi to label HD remapster maps from Remapster.com
 
+for best results, make sure you are already using Remapster DATs from remapster.com. 
+Backup any or all of your Remapster DAT files before overwriting.
+<p>
+I will be adding maps every week, so be sure to check in for new additions.
+</p>
+
 <table>
 <tr>
 <td>
@@ -14,7 +20,7 @@ using information from bg-wiki.com/ffxi to label HD remapster maps from Remapste
 </table>
 
 
-Completed maps:
+Completed maps: as of 1/11/2023
 
 <table>
   <tr>
