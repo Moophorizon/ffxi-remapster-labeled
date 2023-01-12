@@ -92,6 +92,17 @@ Completed maps:
     East Sarutabaruta
   </td>
   </tr>
+  <tr>
+  <td>
+    West Sarutabaruta
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Outer Horutoto Ruins
+  </td>
+  </tr>
+  
 
 
 </table>
