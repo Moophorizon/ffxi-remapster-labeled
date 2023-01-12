@@ -102,6 +102,11 @@ Completed maps:
     Outer Horutoto Ruins
   </td>
   </tr>
+  <tr>
+  <td>
+    Inner Horutoto Ruins
+  </td>
+  </tr>
   
 
 
