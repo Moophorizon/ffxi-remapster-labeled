@@ -118,6 +118,11 @@ Completed maps: as of 1/11/2023
     Garlaige Citadel
   </td>
   </tr>
+  <tr>
+  <td>
+    Pashhow Marshlands
+  </td>
+  </tr>
   
 
 
