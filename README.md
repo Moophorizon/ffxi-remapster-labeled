@@ -20,7 +20,6 @@ I will be adding maps every week, so be sure to check in for new additions.
 </table>
 
 
-Completed maps: as of 1/11/2023
 
 <table>
   <tr>
