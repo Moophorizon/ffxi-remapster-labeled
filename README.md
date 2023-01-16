@@ -122,6 +122,36 @@ I will be adding maps every week, so be sure to check in for new additions.
     Pashhow Marshlands
   </td>
   </tr>
+  <tr>
+  <td>
+    Konschtat Highlands
+  </td>
+  </tr>
+  <tr>
+  <td>
+    La Theine Plateau
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Buburimu Peninsula
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Riverne - Site #A01
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Kazham
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Giddeus
+  </td>
+  </tr>
   
 
 
