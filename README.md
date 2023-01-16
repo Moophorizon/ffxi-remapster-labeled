@@ -20,6 +20,8 @@ I will be adding maps every week, so be sure to check in for new additions.
 </table>
 
 
+<h1> Completed Maps </h1>
+
 
 <table>
   <tr>
