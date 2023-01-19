@@ -154,6 +154,66 @@ I will be adding maps every week, so be sure to check in for new additions.
     Giddeus
   </td>
   </tr>
+  <tr>
+  <td>
+    The Sanctuary of Zi'Tah
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Qufim Island
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Jugner Forest
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Rolanberry Fields
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Batallia Downs
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Meriphataud Mountains
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Sauromugue Champaign
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Promyvion - Holla
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Promyvion - Dem
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Promyvion - Mea
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Promyvion - Vazhl
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Riverne - Site #B01
+  </td>
+  </tr>
   
 
 
