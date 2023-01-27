@@ -216,6 +216,16 @@ Maps are only in 2048x2048 currently.
     Riverne - Site #B01
   </td>
   </tr>
+  <tr>
+  <td>
+    Tahrongi Canyon
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Gusgen Mines
+  </td>
+  </tr>
   
 
 
