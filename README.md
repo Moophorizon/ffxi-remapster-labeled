@@ -6,8 +6,6 @@ Backup any or all of your Remapster DAT files before overwriting.
 <p>
 I will be adding maps every week, so be sure to check in for new additions.
 </p>
-<p>
-Maps are only in 2048x2048 currently.
 
 <table>
 <tr>
