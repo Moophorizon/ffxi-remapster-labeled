@@ -224,6 +224,16 @@ I will be adding maps every week, so be sure to check in for new additions.
     Gusgen Mines
   </td>
   </tr>
+  <tr>
+  <td>
+    Yuhtunga Jungle
+  </td>
+  </tr>
+  <tr>
+  <td>
+    Yhoator Jungle
+  </td>
+  </tr>
   
 
 
