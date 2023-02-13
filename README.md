@@ -31,7 +31,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
      South Gustaberg
   </td>
+  <td>
+     Crawler's Nest
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     North Gustaberg
@@ -39,7 +44,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Palborough Mines
   </td>
+  <td>
+     Beaucedine Glacier
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Dangruf Wadi
@@ -47,7 +57,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Korroloka Tunnel
   </td>
+  <td>
+     Xarcabard
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Bostauniex Oubliette
@@ -55,7 +70,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     East Ronfaure
   </td>
+  <td>
+     Attohwa Chasm
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     West Ronfaure
@@ -63,7 +83,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Ghelsba Outpost
   </td>
+   <td>
+   
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Yughott Grotto
@@ -71,7 +96,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Fort Ghelsba
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     King Ranperre's Tomb
@@ -79,7 +109,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Valkrum Dunes
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     East Sarutabaruta
@@ -87,7 +122,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     West Sarutabaruta
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Outer Horutoto Ruins
@@ -95,7 +135,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Inner Horutoto Ruins
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Garlaige Citadel
@@ -103,7 +148,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Pashhow Marshlands
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Konschtat Highlands
@@ -111,7 +161,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     La Theine Plateau
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Buburimu Peninsula
@@ -119,7 +174,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Riverne - Site #A01
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Kazham
@@ -127,7 +187,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Giddeus
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     The Sanctuary of Zi'Tah
@@ -135,7 +200,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Qufim Island
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Jugner Forest
@@ -143,7 +213,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Rolanberry Fields
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Batallia Downs
@@ -151,7 +226,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Meriphataud Mountains
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Sauromugue Champaign
@@ -159,7 +239,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Promyvion - Holla
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Promyvion - Dem
@@ -167,7 +252,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Promyvion - Mea
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Promyvion - Vazhl
@@ -175,7 +265,12 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Riverne - Site #B01
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Tahrongi Canyon
@@ -183,13 +278,21 @@ I will be adding maps every week, so be sure to check in for new additions.
   <td>
     Gusgen Mines
   </td>
+   <td>
+ 
+  </td>
   </tr>
+  
+  
   <tr>
   <td>
     Yuhtunga Jungle
   </td>
   <td>
     Yhoator Jungle
+  </td>
+   <td>
+ 
   </td>
   </tr>
   
