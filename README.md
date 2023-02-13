@@ -1,5 +1,5 @@
 # ffxi-remapster-labeled
-using information from http://bg-wiki.com/ffxi and https://shirotaru.rambler-style.com/ to label HD remapster maps by AkadenTK from Remapster.com
+Using information from http://bg-wiki.com/ffxi and https://shirotaru.rambler-style.com/ to label HD remapster maps by AkadenTK from Remapster.com
 
 for best results, make sure you are already using Remapster DATs from remapster.com. 
 Backup any or all of your Remapster DAT files before overwriting.
