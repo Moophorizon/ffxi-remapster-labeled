@@ -17,11 +17,12 @@ I will be adding maps every week, so be sure to check in for new additions.
 <img src="preview2.png" width="900"/>
 </td>
 </tr>
+</table>
+
+
 
 
 <h1> Completed Maps </h1>
-
-
 <table>
   <tr>
   <td>
