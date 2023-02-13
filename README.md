@@ -10,15 +10,15 @@ I will be adding maps every week, so be sure to check in for new additions.
 <table>
 <tr>
 <td>
-<img src="preview1.png" width="600"/>
+<img src="preview1.png" width="900"/>
 </td>
 </tr><tr>
 <td>
-<img src="preview2.png" width="600"/>
+<img src="preview2.png" width="900"/>
 </td>
 </tr><tr>
 <td>
-<img src="preview3.png" width="600"/>
+<img src="preview3.png" width="900"/>
 </td>
 </tr>
 </table>
