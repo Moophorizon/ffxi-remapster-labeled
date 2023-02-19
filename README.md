@@ -136,7 +136,7 @@ I will be adding maps every week, so be sure to check in for new additions.
     Inner Horutoto Ruins
   </td>
    <td>
-    Wester Altepa Desert
+    Western Altepa Desert
   </td>
   </tr>
   
