@@ -84,7 +84,7 @@ I will be adding maps every week, so be sure to check in for new additions.
     Ghelsba Outpost
   </td>
    <td>
-   
+    Al'taieu
   </td>
   </tr>
   
@@ -97,7 +97,7 @@ I will be adding maps every week, so be sure to check in for new additions.
     Fort Ghelsba
   </td>
    <td>
- 
+    Uleguerand Range
   </td>
   </tr>
   
@@ -110,7 +110,7 @@ I will be adding maps every week, so be sure to check in for new additions.
     Valkrum Dunes
   </td>
    <td>
- 
+    Lufaise Meadows
   </td>
   </tr>
   
@@ -123,7 +123,7 @@ I will be adding maps every week, so be sure to check in for new additions.
     West Sarutabaruta
   </td>
    <td>
- 
+    Misareaux Coast
   </td>
   </tr>
   
