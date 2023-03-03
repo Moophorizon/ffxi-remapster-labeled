@@ -149,7 +149,7 @@ I will be adding maps every week, so be sure to check in for new additions.
     Pashhow Marshlands
   </td>
    <td>
- 
+    Maze of Shakhrami
   </td>
   </tr>
   
